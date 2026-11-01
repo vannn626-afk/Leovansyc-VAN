@@ -1,0 +1,6 @@
+{
+  "name": "LEOVANSYC",
+  "description": "LEOVANSYC — Native Android Premium Music Player based on Metrolist architecture with Black-White Glassmorphism, dynamic Accent Color engine, YouTube Music catalog & library integration, synchronized lyrics, and native WindowManager Live Island overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
